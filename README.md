@@ -1,13 +1,10 @@
-# Plantilla FrontEnd
-##### Plantilla Básica para poder empezar casi cualquier proyecto en **FrontEnd**.
+# Galeria Smartphone
+##### Ejemplo:
 
 ~~~
-Metodología de carpetas en FrontEnd
-Estructura en imágenes (svg, jpg, iconos, etc)
-Readme, licencia MIT, gitignore
-Fuentes externas al OS
-Semiestructuras en código
-Comentarios introductorios
+Desarrollo en un Smartphone.
+
+Tipo de galeria dividida en dos partes.
 ~~~
 
 > Este contenido se ha creado para mís alumnos, que se inician en el maravilloso mundo de la programación.

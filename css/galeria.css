@@ -1,0 +1,46 @@
+/* Bloques de las fotos de los vecinos */
+.bloque_imagenes01, .bloque_imagenes02{
+    display: flex;
+    flex-wrap: wrap;
+}
+.bloque_imagenes01 img, .bloque_imagenes02 img{
+    width: 48%;
+    margin: 1%;
+    border-radius: 10px;
+    border-top-left-radius: 50%;
+}
+/* Bloque de h4 */
+
+/* Bloque de lineas */
+.lineas{
+    display: flex;
+    flex-direction: column;
+    height: 40px;
+    justify-content: space-between;
+}
+.lineas_linea-grande, .lineas_linea-media, .lineas_linea-peke{
+    background-color: #999999;
+}
+.lineas_linea-grande{
+    height: 6px;
+}
+.lineas_linea-media{
+    height: 3px;
+}
+.lineas_linea-peke{
+    height: 1px;
+}
+/* Bloque de las dos listas */
+.listaVecinos{
+    display: flex;
+    justify-content: space-between;
+}
+.listaVecinos ul h4{
+    font-weight: bold;
+    font-size: 36px;
+}
+
+/* Espacios en Vertical */
+section, .soloclic, ul{
+    margin-bottom: 20px;
+}
